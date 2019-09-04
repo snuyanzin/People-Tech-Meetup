@@ -6,7 +6,7 @@ Prerequisites:
 1. ElasticSearch should run
 2. Please specify your elastic search index at `/src/test/resources/model-elastic-postgres.json`
 3. Postgresql should run
-4. Please specify your connections properties at `/src/test/resources/model-elastic-postgres.json`
+4. Please specify your schema and connections properties at `/src/test/resources/model-elastic-postgres.json`
 5. Build the project `mvn package`
 
 Use `meetup.sh` to run
