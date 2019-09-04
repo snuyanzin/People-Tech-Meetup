@@ -19,8 +19,8 @@
     <top.dir>${project.basedir}</top.dir>
 
     <!-- The following list is sorted. -->
-    <calcite.version>1.21.0-SNAPSHOT</calcite.version>
-    <checkstyle.version>8.23</checkstyle.version>
+    <calcite.version>1.20.0</calcite.version>
+    <checkstyle.version>8.24</checkstyle.version>
     <forbiddenapis.version>2.6</forbiddenapis.version>
     <hamcrest.version>2.1</hamcrest.version>
     <jmockit.version>1.47</jmockit.version>
