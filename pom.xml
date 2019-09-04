@@ -55,13 +55,13 @@
 
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/snuyanzin/calcite-examples/issues</url>
+    <url>https://github.com/snuyanzin/People-Tech-Meetup/issues</url>
   </issueManagement>
 
   <scm>
-    <connection>scm:git:git://github.com/snuyanzin/calcite-examples.git</connection>
-    <developerConnection>scm:git:git@github.com:snuyanzin/calcite-examples.git</developerConnection>
-    <url>https://github.com/snuyanzin/calcite-examples/tree/master</url>
+    <connection>scm:git:git://github.com/snuyanzin/People-Tech-Meetup.git</connection>
+    <developerConnection>scm:git:git@github.com:snuyanzin/People-Tech-Meetup.git</developerConnection>
+    <url>https://github.com/snuyanzin/People-Tech-Meetup/tree/master</url>
     <tag>HEAD</tag>
   </scm>
 
