@@ -7,6 +7,6 @@ Prerequisites:
 2. Please specify your elastic search index at `/src/test/resources/model-elastic-postgres.json`
 3. Postgresql should be running before calling `meetup.sh`
 4. Please specify your schema and connections properties at `/src/test/resources/model-elastic-postgres.json`
-5. Build the project `mvn package`
+5. Build the project `mvnw package` on Windows or `./mvnw package`
 
 Use `meetup.sh` to run
