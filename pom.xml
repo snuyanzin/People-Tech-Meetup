@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>calcite-examples</groupId>
-  <artifactId>calcite-examples</artifactId>
+  <groupId>People-Tech-Meetup</groupId>
+  <artifactId>People-Tech-Meetup</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0-SNAPSHOT</version>
-  <name>calcite-examples</name>
-  <description>Calcite examples</description>
-  <url>https://github.com/snuyanzin/calcite-examples/</url>
+  <name>People-Tech-Meetup</name>
+  <description>People-Tech-Meetup</description>
+  <url>https://github.com/snuyanzin/People-Tech-Meetup/</url>
   <inceptionYear>2018</inceptionYear>
   <organization>
     <name>Sergey Nuyanzin</name>
