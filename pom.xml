@@ -42,7 +42,7 @@
     <mssql.jdbc.version>7.4.1.jre12</mssql.jdbc.version>
     <mysql.connector.version>8.0.17</mysql.connector.version>
     <postgresql.driver.version>42.2.6</postgresql.driver.version>
-    <sqlline.version>1.9.0-SNAPSHOT</sqlline.version>
+    <sqlline.version>1.8.0</sqlline.version>
   </properties>
 
   <licenses>
